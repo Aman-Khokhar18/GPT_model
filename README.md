@@ -7,7 +7,7 @@ A minimal yet complete implementation of a GPT model in PyTorch, trained on Wiki
 ### 📁 Repository Structure
 
 ```
-GPT-from-Scratch/
+GPT_Model/
 ├── config.py                # Configs: model, training, tokenizer, etc.
 ├── dataset.py              # Dataset wrapper for WikiText + tokenizer handling
 ├── model.py                # Transformer-based GPT architecture
@@ -27,7 +27,7 @@ GPT-from-Scratch/
 
 ```bash
 git clone https://github.com/Aman-Khokhar18/GPT_model.git
-cd GPT-from-Scratch
+cd GPT_Model
 pip install -r requirements.txt
 ```
 
