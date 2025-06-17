@@ -26,7 +26,7 @@ GPT-from-Scratch/
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/GPT-from-Scratch.git
+git clone https://github.com/Aman-Khokhar18/GPT_model.git
 cd GPT-from-Scratch
 pip install -r requirements.txt
 ```
