@@ -93,12 +93,4 @@ The future of artificial intelligence is uncertain, but it is likely to continue
 * Add support for mixed precision training (AMP)
 * Implement beam search sampling
 
----
 
-### 📜 License
-
-MIT License
-
----
-
-Would you like me to generate the actual files in the right structure and upload them for easy copy-paste or GitHub setup?
